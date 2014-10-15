@@ -10,14 +10,13 @@ email: support@scrollback.io
 #blog logo
 logo: "/assets/images/scrollback-logo-square.svg"
 # blog cover
-cover: "/assets/images/covers/bg-home-3000.jpg"
+cover: "/assets/images/cover.jpg"
 
 name: "Scrollback"
 author: "Scrollback"
 author_image:
 
 paginate: 5
-paginate_path: "/blog/page:num"
 
 url: "/" # the base hostname & protocol for your site
 baseurl: ""
